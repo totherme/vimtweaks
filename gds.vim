@@ -1,6 +1,6 @@
-autocmd FileType gitrebase map p bcwp <ESC>
-autocmd FileType gitrebase map r bcwr <ESC>
-autocmd FileType gitrebase map e bcwe <ESC>
-autocmd FileType gitrebase map s bcws <ESC>
-autocmd FileType gitrebase map f bcwf <ESC>
-autocmd FileType gitrebase map x bcwx <ESC>
+autocmd FileType gitrebase map p 0cwp <ESC>
+autocmd FileType gitrebase map r 0cwr <ESC>
+autocmd FileType gitrebase map e 0cwe <ESC>
+autocmd FileType gitrebase map s 0cws <ESC>
+autocmd FileType gitrebase map f 0cwf <ESC>
+autocmd FileType gitrebase map x 0cwx <ESC>
