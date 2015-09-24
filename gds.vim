@@ -1,3 +1,5 @@
+autocmd FileType gitrebase map <C-J> ddjP
+autocmd FileType gitrebase map <C-K> ddkP
 autocmd FileType gitrebase map p 0cwp <ESC>
 autocmd FileType gitrebase map r 0cwr <ESC>
 autocmd FileType gitrebase map e 0cwe <ESC>
